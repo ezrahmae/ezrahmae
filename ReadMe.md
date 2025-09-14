@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Hi, I'm Ezrah Mae Bada! <br><br>🎓 A Computer Science student exploring the tech industry.<br>🌱 Currently enhancing my skills in Python, SQL, UI/UX design, HTML, CSS, JavaScript, Data Structures & Algorithms, and cybersecurity fundamentals. <br>💡 Interested in web development, software engineer, data science, <br>and cybersecurity. <br>🔍 Focused on solving problems, building user-friendly applications, and learning new technologies.  <br>🚀 My current goal is to strengthen my development skills and prepare for future opportunities in the tech industry.  <br>🤝 I’m open to collaborating on beginner-friendly projects and learning from the community.  <br>
 
 
